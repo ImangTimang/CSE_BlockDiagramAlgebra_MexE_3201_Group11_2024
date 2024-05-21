@@ -22,11 +22,11 @@ The method of creating a block diagram is locating the essential parts or proced
 
 ![BLOCK](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/26ead3be-fdd2-4ae0-a5d6-4027406c4555)
 
-Step Response
+# Step Response
 
 ![Screenshot 2024-05-21 163750](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/7250102f-9353-4ab4-a020-55d5458056e9)
 
-Simulink
+# Simulink
 
 ![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/41076b71-e5cb-44be-bbf5-3a5c7c78ddea)
 
@@ -40,15 +40,15 @@ Simulink
 
 ![mine](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/31c9e6e7-c8fd-4720-b382-37a92ce7ea3c)
 
-Block Diagram 2
+# Block Diagram 2
 
 ![block2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/eb7c4946-8fe5-4b6f-b198-3d50b5e4d320)
 
-Step Response
+# Step Response
 
 ![Screenshot 2024-05-21 164443](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/c5010eb0-e013-4fa3-be24-073a900562d5)
 
-Simulink
+# Simulink
 
 ![simu2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/fc1dc8ab-e11f-4967-babc-7ad4ac9d26ce)
 
