@@ -1,5 +1,8 @@
 # CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024
 
+![JACOBIAN AND PATH TRAJECTORY (3)](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157728066/894d7bd6-effc-46c4-bc0f-109f5d827cc4)
+
+
 ![1](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/98fb9a9d-8dbc-41fc-84e7-a90ff4ff94d0)
 
 ![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/0709d77a-e332-4f85-ae64-b9fb6f5f1887)
