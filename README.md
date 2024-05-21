@@ -30,6 +30,12 @@ The method of creating a block diagram is locating the essential parts or proced
 
 ![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/41076b71-e5cb-44be-bbf5-3a5c7c78ddea)
 
+# Sinusoidal
+
+![real](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/93b8f5e3-eafa-4c0b-a1b8-b46b4e306c7c)
+
+
+
 ###
 
 # Block Diagram 1 Solution
@@ -51,6 +57,10 @@ The method of creating a block diagram is locating the essential parts or proced
 # Simulink
 
 ![simu2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/fc1dc8ab-e11f-4967-babc-7ad4ac9d26ce)
+
+# Sinudoidal
+
+![real2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/ff64b802-bdd9-4361-a48e-f94d886f35ea)
 
 #
 
