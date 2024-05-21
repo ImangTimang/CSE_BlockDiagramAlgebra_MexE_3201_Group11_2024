@@ -18,18 +18,23 @@ The method of creating a block diagram is locating the essential parts or proced
 ###
 ###
 
+Block Diagram 1
 
-![1](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/98fb9a9d-8dbc-41fc-84e7-a90ff4ff94d0)
+![BLOCK](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/26ead3be-fdd2-4ae0-a5d6-4027406c4555)
 
-![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/0709d77a-e332-4f85-ae64-b9fb6f5f1887)
+Step Response
 
-![3](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/0cfb74cd-d7f0-4f87-9a27-11838190be81)
+![Screenshot 2024-05-21 163750](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/7250102f-9353-4ab4-a020-55d5458056e9)
 
-![4](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/aa4777d1-e02a-4bf3-aa5e-c07fe2ee2e34)
+Simulink
 
-![5](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/7a528c7d-e206-4c06-bcae-9a3bc2eeb19a)
+![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/41076b71-e5cb-44be-bbf5-3a5c7c78ddea)
 
-![6](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/18cdcba2-03ea-4e7e-bb69-0a02fe2c65ec)
+Block Diagram 1 Solution
+
+![Screenshot 2024-05-21 164209](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/0de8fadb-f66a-4f9f-885e-2fc64ff4d227)
+
+![Screenshot 2024-05-21 164217](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/ca4a1bc0-9206-45c9-830b-0a3a085b23a9)
 
 
 
