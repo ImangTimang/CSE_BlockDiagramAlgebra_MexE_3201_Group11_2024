@@ -18,7 +18,7 @@ The method of creating a block diagram is locating the essential parts or proced
 ###
 ###
 
-Block Diagram 1
+# Block Diagram 1
 
 ![BLOCK](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/26ead3be-fdd2-4ae0-a5d6-4027406c4555)
 
@@ -30,7 +30,9 @@ Simulink
 
 ![2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/41076b71-e5cb-44be-bbf5-3a5c7c78ddea)
 
-Block Diagram 1 Solution
+###
+
+# Block Diagram 1 Solution
 
 ![Screenshot 2024-05-21 164209](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/0de8fadb-f66a-4f9f-885e-2fc64ff4d227)
 
@@ -50,7 +52,9 @@ Simulink
 
 ![simu2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/fc1dc8ab-e11f-4967-babc-7ad4ac9d26ce)
 
-Block Diagram Solution
+#
+
+# Block Diagram Solution
 
 ![Screenshot 2024-05-21 164744](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/1042919a-c070-4547-be7e-52f9bead7a16)
 
