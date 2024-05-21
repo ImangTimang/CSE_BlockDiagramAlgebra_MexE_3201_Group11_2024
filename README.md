@@ -36,5 +36,33 @@ Block Diagram 1 Solution
 
 ![Screenshot 2024-05-21 164217](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/ca4a1bc0-9206-45c9-830b-0a3a085b23a9)
 
+![mine](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/31c9e6e7-c8fd-4720-b382-37a92ce7ea3c)
+
+Block Diagram 2
+
+![block2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/eb7c4946-8fe5-4b6f-b198-3d50b5e4d320)
+
+Step Response
+
+![Screenshot 2024-05-21 164443](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/c5010eb0-e013-4fa3-be24-073a900562d5)
+
+Simulink
+
+![simu2](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/fc1dc8ab-e11f-4967-babc-7ad4ac9d26ce)
+
+Block Diagram Solution
+
+![Screenshot 2024-05-21 164744](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/1042919a-c070-4547-be7e-52f9bead7a16)
+
+![Screenshot 2024-05-21 164753](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/a5fb472a-e259-4eb1-8518-11e1b62306cf)
+
+![Screenshot 2024-05-21 164759](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/bfba1f81-3654-4d1d-b4f0-73ef25babfe8)
+
+![Screenshot 2024-05-21 164810](https://github.com/ImangTimang/CSE_BlockDiagramAlgebra_MexE_3201_Group11_2024/assets/157492494/a86f39fd-85b8-49c8-9932-2e40919801d7)
+
+
+
+
+
 
 
